@@ -21,10 +21,6 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - **Bonus**: See the chat interface animate on the initial load
 
-### Screenshot
-
-![desktop](./images/desktop.png)
-
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/chat-app-css-illustration-oLhtAP_yfK)
